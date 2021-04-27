@@ -28,4 +28,10 @@
 .btn-slider:hover{
     background-color: #ba933e;
   }
+
+  .espacio{
+      width:100%;
+      height:300px;
+      background:#ba933e;
+  }
                     
